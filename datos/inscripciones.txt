@@ -1,0 +1,2 @@
+1001;Programacion I;2026-03-10
+1002;Base de Datos;2026-03-11
